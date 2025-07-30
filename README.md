@@ -29,9 +29,9 @@ I'm a **Full Stack Developer** passionate about building scalable applications a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1562&layout=compact&theme=radical&border_radius=20" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu1562&layout=compact&theme=radical&border_radius=20" alt="Top Languages" width="350"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu1562&show_icons=true&hide_title=true&theme=radical&border_radius=20" alt="Vishnu's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu1562&show_icons=true&hide_title=true&theme=radical&border_radius=20" alt="Vishnu's GitHub Stats" width="450"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishnu1562&theme=tokyonight&border_radius=20" alt="GitHub Streak" width="600"/>
 </div>
