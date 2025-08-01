@@ -37,5 +37,3 @@ I'm a **Full Stack Developer** passionate about building scalable applications a
 </div>
 
 ---
-
-*Thanks for visiting my profile!*
